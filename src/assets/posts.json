@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Post de ejemplo 1",
+        "summary": "Este es el resumen",
+        "text": "Este es el texto completo"
+    },
+    {
+        "title": "Post de ejemplo 2",
+        "summary": "Este es el resumen",
+        "text": "Este es el texto completo"
+    }
+]
